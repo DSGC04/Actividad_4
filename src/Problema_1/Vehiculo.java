@@ -7,6 +7,7 @@ public class Vehiculo {
     protected int año;
     protected double costoPorDia;
 
+
     public Vehiculo(String placa, String marca, String modelo, int año, double costoPorDia) {
         this.placa = placa;
         this.marca = marca;

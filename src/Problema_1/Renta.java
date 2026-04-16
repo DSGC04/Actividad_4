@@ -17,6 +17,7 @@ public class Renta {
         this.vehiculo = vehiculo;
     }
 
+
     public String getFechaRenta() {
         return this.fechaRenta;
     }

@@ -28,4 +28,5 @@ public class Automovil extends Vehiculo {
         String var10000 = super.toString();
         return var10000 + " | Puertas: " + this.numeroPuertas + " | Transmision: " + this.transmision + " | Pasajeros: " + this.capacidadPasajeros;
     }
+
 }

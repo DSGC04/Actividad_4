@@ -4,6 +4,7 @@ public class Libro extends Material {
     private String genero;
     private String editorial;
 
+
     public Libro(String codigo, String titulo, String autor, int añoPublicacion, int numeroPaginas, String genero, String editorial) {
         super(codigo, titulo, autor, añoPublicacion, numeroPaginas);
         this.genero = genero;

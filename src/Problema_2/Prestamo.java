@@ -7,6 +7,7 @@ public class Prestamo {
     private Material[] materiales;
     private int contador;
 
+
     public Prestamo(String fechaSolicitud, String fechaDevolucion, Persona persona) {
         this.fechaSolicitud = fechaSolicitud;
         this.fechaDevolucion = fechaDevolucion;

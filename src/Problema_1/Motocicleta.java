@@ -28,5 +28,6 @@ public class Motocicleta extends Vehiculo {
         double total = super.calcularCosto(dias);
         return total * 0.95;
     }
+
 }
 
